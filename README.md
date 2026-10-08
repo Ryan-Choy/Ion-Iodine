@@ -1,2 +1,2 @@
-# IOD-Iodine
-This is for the IOD Data science bootcamp on 2026
+# Ion-Iodine
+This is for a class in 2026
